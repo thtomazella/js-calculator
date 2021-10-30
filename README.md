@@ -3,7 +3,7 @@
 Como realizar download do projeto
 
 * Link do Professor - inicial - `git clone git@github.com:DaniloOliveira28/js-calculator.git`
-* Link aluno - `https://github.com/thtomazella/js-calculator.git`
+* Link aluno - `git clone https://github.com/thtomazella/js-calculator.git`
 
  Requisitos
  - A finalidade da aplicação é medir quanto tempo o usuario demora para digitar o texto na tela
